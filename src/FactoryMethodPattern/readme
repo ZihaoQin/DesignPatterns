@@ -1,0 +1,2 @@
+工厂方法模式：利用HasMap将类名与类的实例通过键值对的形式放入HasMap中，后期可从HasMap中直接根据key值取出。
+                这也是spring中BeanFactory的核心思想。
